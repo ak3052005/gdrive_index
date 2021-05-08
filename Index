@@ -1,5 +1,4 @@
-/**
- * A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ak3052005
+
  */
 
 // add multiple serviceaccounts as {}, {}, {}, random account will be selected by each time app is opened.
